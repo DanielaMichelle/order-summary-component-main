@@ -11,11 +11,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot/order-summary-component-main-desktop.png)
+![](./screenshot/order-summary-component-main-mobile.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/DanielaMichelle/order-summary-component-main)
+- Live Site URL: (https://danielamichelle.github.io/order-summary-component-main/)
 
 ### Built with
 
